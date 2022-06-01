@@ -1,1 +1,1 @@
-# xmr
+xmrid miner
